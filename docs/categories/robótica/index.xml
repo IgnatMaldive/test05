@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Robótica on Ignacio Mondine</title>
+        <link>https://example.com/categories/rob%C3%B3tica/</link>
+        <description>Recent content in Robótica on Ignacio Mondine</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 09 Jun 2004 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/rob%C3%B3tica/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Robo-One</title>
+        <link>https://example.com/p/robo-one/</link>
+        <pubDate>Wed, 09 Jun 2004 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/robo-one/</guid>
+        <description>&lt;img src="https://example.com/p/robo-one/robo-one.jpg" alt="Featured image of post Robo-One" /&gt;&lt;p&gt;TiTo es un robot humanoide construido con servo-motores y metacrilato. Este tipo de robot se denomina Robo-One y son muy populares en Japón. (Link &lt;a class=&#34;link&#34; href=&#34;http://robo-one.blogspot.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://robo-one.blogspot.com/&lt;/a&gt;) .&lt;/p&gt;
+&lt;p&gt;TiTo es un robot humanoide construido deliberadamente con elementos baratos, accesibles y fácilmente manipulables. Uno de los objetivos de su autor es el estudio del movimiento bípedo en superficies no lisas. Mondine hablará también del robot bípedo japonés Robo-One, y de los avances en desplazamiento robótico.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;TiTo&amp;rdquo; se ha presentado en Dorkbot Barcelona, y estamos muy contentos de tenerlo ahora en Dorkbot Madrid para el comienzo de nuestra nueva temporada.&lt;/p&gt;
+&lt;h2 id=&#34;image-gallery&#34;&gt;Image Gallery&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/p/robo-one/01.jpg&#34;
+	width=&#34;1024&#34;
+	height=&#34;768&#34;
+	srcset=&#34;https://example.com/p/robo-one/01_hu60f53bc248526a312ff7296edbdd31ae_170151_480x0_resize_q75_box.jpg 480w, https://example.com/p/robo-one/01_hu60f53bc248526a312ff7296edbdd31ae_170151_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;texto&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;  &lt;img src=&#34;https://example.com/p/robo-one/02.jpg&#34;
+	width=&#34;1024&#34;
+	height=&#34;768&#34;
+	srcset=&#34;https://example.com/p/robo-one/02_hu60f53bc248526a312ff7296edbdd31ae_178879_480x0_resize_q75_box.jpg 480w, https://example.com/p/robo-one/02_hu60f53bc248526a312ff7296edbdd31ae_178879_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/p/robo-one/04.jpg&#34;
+	width=&#34;960&#34;
+	height=&#34;1280&#34;
+	srcset=&#34;https://example.com/p/robo-one/04_hu6e1e6c727ce0b5182e0f3890e2fa716f_144557_480x0_resize_q75_box.jpg 480w, https://example.com/p/robo-one/04_hu6e1e6c727ce0b5182e0f3890e2fa716f_144557_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Photo by Helena Hertz on Unsplash&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;75&#34;
+		data-flex-basis=&#34;180px&#34;
+	
+&gt;  &lt;img src=&#34;https://example.com/p/robo-one/05.jpg&#34;
+	width=&#34;640&#34;
+	height=&#34;853&#34;
+	srcset=&#34;https://example.com/p/robo-one/05_hu9490a12b43b34f758d728dc3d62cdaeb_108959_480x0_resize_q75_box.jpg 480w, https://example.com/p/robo-one/05_hu9490a12b43b34f758d728dc3d62cdaeb_108959_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Photo by Hudai Gayiran on Unsplash&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;75&#34;
+		data-flex-basis=&#34;180px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;youtube-privacy-enhanced-shortcode&#34;&gt;YouTube Privacy Enhanced Shortcode&lt;/h2&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/gCtja3AF7C4&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;h1 id=&#34;vagus-elidunt&#34;&gt;Vagus elidunt&lt;/h1&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The Van de Graaf Canon&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        </item>
+        
+    </channel>
+</rss>

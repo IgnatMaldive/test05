@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Networks on Ignacio Mondine</title>
+        <link>https://example.com/categories/networks/</link>
+        <description>Recent content in Networks on Ignacio Mondine</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 09 Jun 2000 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/networks/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Media House</title>
+        <link>https://example.com/p/media-house/</link>
+        <pubDate>Fri, 09 Jun 2000 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/media-house/</guid>
+        <description>&lt;img src="https://example.com/p/media-house/media_house.jpg" alt="Featured image of post Media House" /&gt;&lt;h2 id=&#34;the-house-is-the-computer-the-structure-is-the-network&#34;&gt;&amp;ldquo;The house is the computer, the structure is the network.&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;The Media House Project is the fruit of a strategic alliance between the &lt;strong&gt;Massachusetts Institute of Technology’s Media Lab’s Consortium&lt;/strong&gt; (Things that think), the &lt;strong&gt;Metápolis&lt;/strong&gt; group from Barcelona and the &lt;strong&gt;Fundaciò Politècnica de Catalunya&lt;/strong&gt;, with the collaboration of the consortium &lt;strong&gt;I2CAT&lt;/strong&gt; and the &lt;strong&gt;Elisava Design School&lt;/strong&gt;. The purpose is to unite their respective potential in order to build a prototype of an informational house.&lt;/p&gt;
+&lt;p&gt;This Project enables the testing of the progression of information Technologies beyond that of computers and integrates them into everyday life, literally looking to build computers from the components of buildings, in such a way, that the logical intelligence of a structure can grow with its physical form.&lt;/p&gt;
+&lt;p&gt;The Metapolis Architects have developed an informative structure, which incorporates in just one element the physical structure, the electrical network, and the data network, which enables a dynamic and configurable link between the entities (people, objects, space, limits, networks and contents) and that which create an inhabitable environment.&lt;/p&gt;
+&lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/p/media-house/01.png&#34;
+	width=&#34;1019&#34;
+	height=&#34;760&#34;
+	srcset=&#34;https://example.com/p/media-house/01_hu5b2898dc8a0f900c5a42c47c9bec433c_655284_480x0_resize_box_3.png 480w, https://example.com/p/media-house/01_hu5b2898dc8a0f900c5a42c47c9bec433c_655284_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;134&#34;
+		data-flex-basis=&#34;321px&#34;
+	
+&gt; &lt;img src=&#34;https://example.com/p/media-house/02.png&#34;
+	width=&#34;667&#34;
+	height=&#34;841&#34;
+	srcset=&#34;https://example.com/p/media-house/02_hu17ec138b9dbf49bf8771624ccddf1e2c_925139_480x0_resize_box_3.png 480w, https://example.com/p/media-house/02_hu17ec138b9dbf49bf8771624ccddf1e2c_925139_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;79&#34;
+		data-flex-basis=&#34;190px&#34;
+	
+&gt; &lt;img src=&#34;https://example.com/p/media-house/03.jpg&#34;
+	width=&#34;1024&#34;
+	height=&#34;779&#34;
+	srcset=&#34;https://example.com/p/media-house/03_hu879bc2cb66ea079ddf293e71d0065f79_116808_480x0_resize_q75_box.jpg 480w, https://example.com/p/media-house/03_hu879bc2cb66ea079ddf293e71d0065f79_116808_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;131&#34;
+		data-flex-basis=&#34;315px&#34;
+	
+&gt;&lt;/p&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
